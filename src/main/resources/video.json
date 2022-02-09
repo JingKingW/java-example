@@ -1,0 +1,2028 @@
+{
+  "data": {
+    "cctv1": {
+      "name": "CCTV-1 综合",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "http://223.110.243.170/PLTV/3/224/3221226316/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "rtsp://120.205.96.36:554/live/ch16022919053041099962.sdp?playtype=1&boid=001&backupagent=120.205.32.36:554&clienttype=1&time=20161205230814+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=&mediaid=ch16022919053041099962&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=&nodelevel=3"
+        },
+        {
+          "sourceWebsite": "网络102",
+          "playUrl": "http://cctv5.txty.5213.liveplay.myqcloud.com/live/cctv1_txty.m3u8"
+        },
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://tianweilive.ali.otvcloud.com/otv/tw/live/channel01/800.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctv2": {
+      "name": "CCTV-2 财经",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/cctv2.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "rtsp://120.205.96.36:554/live/ch16030112530104309191.sdp?playtype=1&boid=001&backupagent=120.205.32.36:554&clienttype=1&time=20161205230814+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=&mediaid=ch16030112530104309191&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=&nodelevel=3"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-2/1.m3u8"
+        },
+        {
+          "sourceWebsite": "网络49",
+          "playUrl": "http://live3.sz96296.com:9391/live/cctv2-1200k.m3u8?timestamp=20180827141913&encrypt=749ff0f65147897cfb192ff165bf909b"
+        },
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://223.110.243.155:80/PLTV/3/224/3221227412/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络69",
+          "playUrl": "http://hbmc.chinashadt.com:2739/live/di2.stream/playlist.m3u8"
+        },
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://223.110.243.155/PLTV/3/224/3221227412/index.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctv3": {
+      "name": "CCTV-3 综艺",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/cctv3.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "http://223.110.243.150/PLTV/3/224/3221225588/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "http://live3.sz96296.com:9391/live/cctv3-1200k.m3u8?timestamp=20180827142620&encrypt=45c0a510fd8988087f84dd20447173c3"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctv4": {
+      "name": "CCTV-4 中文国际(亚)",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/cctv4.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "http://live3.sz96296.com:9391/live/cctv4-1200k.m3u8?timestamp=20180827143139&encrypt=862ff8dcc6710a0587c87bdb9fae8ae0"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "http://223.110.243.168/PLTV/3/224/3221225534/index.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctveurope": {
+      "name": "CCTV-4 中文国际(欧)",
+      "playSource": [
+        {
+          "sourceWebsite": "网络43",
+          "playUrl": "http://hls2.cntv.myalicdn.com/cntvlive/cctveuropemd.m3u8?auth_key=1535351582-722-0-a356f2bf85d5800af1105a6f1d1cf372"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvamerica": {
+      "name": "CCTV-4 中文国际(美)",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": ""
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctv5": {
+      "name": "CCTV-5 体育",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/cctv5.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225545/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "rtsp://120.205.96.36:554/live/ch15021120011968395519.sdp?playtype=1&boid=001&backupagent=120.205.32.36:554&clienttype=1&time=20161205230814+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=&mediaid=ch15021120011968395519&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=&nodelevel=3"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctv5plus": {
+      "name": "CCTV5 体育赛事",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225534/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "http://183.207.249.14/PLTV/3/224/3221225604/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "http://111.20.33.69/PLTV/88888888/224/3221225761/index.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctv6": {
+      "name": "CCTV-6 电影",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/cctv6.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "http://223.110.243.149/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络49",
+          "playUrl": "http://live3.sz96296.com:9391/live/cctv6-1200k.m3u8?timestamp=20180827144134&encrypt=cd1fa871d158189c3fb37b5633fbfad4"
+        },
+        {
+          "sourceWebsite": "网络102",
+          "playUrl": "http://sdlqx.chinashadt.com:2036/live/CCTV6.stream/playlist.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctv7": {
+      "name": "CCTV-7 军事农业",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/cctv7.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "http://183.207.249.6/PLTV/3/224/3221225546/index.m"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "rtsp://120.205.96.36:554/live/ch16030115175852002239.sdp?playtype=1&boid=001&backupagent=120.205.32.36:554&clienttype=1&time=20161205230814+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=&mediaid=ch16030115175852002239&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=&nodelevel=3"
+        },
+        {
+          "sourceWebsite": "网络49",
+          "playUrl": "http://live3.sz96296.com:9391/live/cctv7-1200k.m3u8?timestamp=20180827144331&encrypt=52f7c88ad8025940d98d84f2c2de970a"
+        },
+        {
+          "sourceWebsite": "网络102",
+          "playUrl": "http://hljjms.chinashadt.com:2036/live/1008.stream/playlist.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctv8": {
+      "name": "CCTV-8 电视剧",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/cctv8.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "http://223.110.243.170/PLTV/3/224/3221227204/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络49",
+          "playUrl": "http://live3.sz96296.com:9391/live/cctv8-1200k.m3u8?timestamp=20180827144748&encrypt=4aaacb44f11d77987cf6fba640ff8e52"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvjilu": {
+      "name": "CCTV-9 纪录",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/cctv9.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221225532/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "rtsp://120.205.96.36:554/live/ch16050418512917661622.sdp?playtype=1&boid=001&backupagent=120.205.32.36:554&clienttype=1&time=20161205230814+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=&mediaid=ch16050418512917661622&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=&nodelevel=3"
+        },
+        {
+          "sourceWebsite": "网络49",
+          "playUrl": "http://live3.sz96296.com:9391/live/cctv9-1200k.m3u8?timestamp=20180827144857&encrypt=f33f3e929ada14d616120db77892d11f"
+        },
+        {
+          "sourceWebsite": "网络69",
+          "playUrl": "http://jxsg.chinashadt.com:1936/live/CCTV9.stream_aac/playlist.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctv10": {
+      "name": "CCTV-10 科教",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/cctv10.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226055/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络49",
+          "playUrl": "http://live3.sz96296.com:9391/live/cctv10-1200k.m3u8?timestamp=20180827145211&encrypt=1fbf8fe8652d00a4aebe450476cf1667"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctv11": {
+      "name": "CCTV-11 戏曲",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/cctv11.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/?IASHttpSessionId=OTT1746120180512074345007629"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225983/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络49",
+          "playUrl": "http://live3.sz96296.com:9391/live/cctv11-1200k.m3u8?timestamp=20180827145655&encrypt=94c101a9e6e9d62c2d2abff9980607f0"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctv12": {
+      "name": "CCTV-12 社会与法",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/cctv12.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "http://183.207.249.14/PLTV/3/224/3221225556/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "rtsp://120.205.4.36:554/live/ch16112916125096287095.sdp?playtype=1&boid=001&backupagent=120.205.32.36:554&clienttype=1&time=20161205230814+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=&mediaid=ch16112916125096287095&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=&nodelevel=3"
+        },
+        {
+          "sourceWebsite": "网络49",
+          "playUrl": "http://live3.sz96296.com:9391/live/cctv12-1200k.m3u8?timestamp=20180827145852&encrypt=204badc5ea32396a308f332cd622d429"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctv13": {
+      "name": "CCTV-13 新闻",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/cctv13.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/?IASHttpSessionId=OTT1746120180512074345007629"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络49",
+          "playUrl": "http://live3.sz96296.com:9391/live/cctv13-1200k.m3u8?timestamp=20180827150230&encrypt=abdc4b672d474e8f37c0986a2f35ee76"
+        },
+        {
+          "sourceWebsite": "网络69",
+          "playUrl": "http://liveali.ifeng.com/live/CCTV.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvchild": {
+      "name": "CCTV-14 少儿",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/cctv14.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226057/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "rtsp://120.205.4.36:554/live/ch16030115401748721290.sdp?playtype=1&boid=001&backupagent=120.205.32.36:554&clienttype=1&time=20161205230814+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=&mediaid=ch16030115401748721290&ctype=2&TSTVTimeLife=60&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=&nodelevel=3"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctv15": {
+      "name": "CCTV-15 音乐",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/cctv15.m3u8"
+        },
+        {
+          "sourceWebsite": "网络1",
+          "playUrl": "http://183.207.249.7/PLTV/3/224/3221225568/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "http://223.110.243.150/ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络49",
+          "playUrl": "http://live3.sz96296.com:9391/live/cctv15-1200k.m3u8?timestamp=20180827150931&encrypt=c8a3512b1bda93e99aa9730570cfce24"
+        },
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://223.110.243.155/PLTV/3/224/3221225568/index.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvnews": {
+      "name": "CCTV NEWS",
+      "playSource": [
+        {
+          "sourceWebsite": "网络35",
+          "playUrl": "http://h5live.gslb.cmplaySource.cn/envivo_x/SD/cctvnews/450/index.m3u8?msisdn=:clentId&mdspid=&spid=699004&netType=0&sid=2202196407&pid=2028597139&timestamp=20180827151554&Channel_ID=1004_10010001005&ProgramID=609017205&ParentNodeID=-99&assertID=2202196407&client_ip=61.170.86.21&SecurityKey=20180827151554&promotionId=&mvid=&mcid=&mpid=&encrypt=6bc52874128a767b6c7e881a7df2c93c"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvfyyy": {
+      "name": "CCTV 风云音乐",
+      "playSource": [
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000067&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "rtmp:\/\/ivi.bupt.edu.cn:1935\/livetv\/fyyytv"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvdyjc": {
+      "name": "CCTV 第一剧场",
+      "playSource": [
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000072&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "rtmp:\/\/ivi.bupt.edu.cn:1935\/livetv\/dyjctv"
+        },
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://112.50.243.7/PLTV/88888888/224/3221226595/index.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvhjjc": {
+      "name": "CCTV 怀旧剧场",
+      "playSource": [
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000069&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "rtmp:\/\/ivi.bupt.edu.cn:1935\/livetv\/hjjctv"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvgfjs": {
+      "name": "CCTV 国防军事",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvnxss": {
+      "name": "CCTV 女性时尚",
+      "playSource": [
+        {
+          "sourceWebsite": "FL4",
+          "playUrl": "http:\/\/61.176.217.50:6610\/001\/2\/ch00000090990000001159\/index.m3u8?virtualDomain=001.live_hls.zte.com&IASHttpSessionId=OTT2862420180728035315001711"
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000055&playtoken=ABCDEFGH&file=.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "xinkedongman": {
+      "name": "CCTV 新科动漫",
+      "playSource": [
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://fms.cntv.lxdns.com/live/flv/channel179.flv"
+        },
+        {
+          "sourceWebsite": "网络43",
+          "playUrl": "http://hls2.cntv.myalicdn.com/cntvlive/xinkedongmanmd.m3u8?auth_key=1535359670-161-0-14a24c025f7b75035501da676c3de6e2"
+        },
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http://httpdvb.slave.pygdzhcs.com:13164/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000128&playtoken=ABCDEFGH&file=.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvzqzx": {
+      "name": "CCTV 证券资讯",
+      "playSource": [
+        {
+          "sourceWebsite": "FL12",
+          "playUrl": "http:\/\/223.99.186.199:6610\/shandong_cabletv.live.zte.com\/223.99.253.7:8081\/00\/SNM\/CHANNEL00000606\/2540800.m3u8?IASHttpSessionId=SLB3464201704130222301170214&ztecid=CHANNEL00000606&bandwidth=2540800&ispcode=3&timeformat=local&channel=CHANNEL00000606&srcplayUrl=aHR0cDovLzIyMy45OS4yNTMuNzo4MDgxLzIvMDAvQ0hBTk5FTDAwMDAwNjA2LzI1NDA4MDAvMS5tM3U4&m3u8_level=2"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvfxzl": {
+      "name": "CCTV 发现之旅",
+      "playSource": [
+        {
+          "sourceWebsite": "FL4",
+          "playUrl": "http:\/\/61.176.217.50:6610\/001\/2\/ch00000090990000001213\/index.m3u8?virtualDomain=001.live_hls.zte.com&IASHttpSessionId=OTT2862820180728035730001474"
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000052&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "网络35",
+          "playUrl": "http://h5live.gslb.cmplaySource.cn/wd_r2/ocn/fxzl/350/index.m3u8?msisdn=:clentId&mdspid=&spid=800033&netType=0&sid=5500321407&pid=2028597139&timestamp=20180827154715&Channel_ID=1004_10010001005&ProgramID=630310927&ParentNodeID=-99&assertID=5500321407&client_ip=61.170.86.21&SecurityKey=20180827154715&promotionId=&mvid=&mcid=&mpid=&encrypt=27d337b7f2f5f8a48ff639495b92ea33"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvalby": {
+      "name": "CCTV 阿拉伯语",
+      "playSource": [
+        {
+          "sourceWebsite": "网络34",
+          "playUrl": "http://live.aikan.miguplaySource.com/envivo_v/SD/cctv/alabo/711/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=211.140.19.2&timestamp=20180827075016&encrypt=af9279af948930dfd48e8add4b15919f&ContentId=20000099&timezone=UTC"
+        },
+        {
+          "sourceWebsite": "网络35",
+          "playUrl": "http://h5live.gslb.cmplaySource.cn/envivo_v/SD/cctv/alabo/450/index.m3u8?msisdn=:clentId&mdspid=&spid=699004&netType=0&sid=2200179303&pid=2028597139&timestamp=20180827155040&Channel_ID=1004_10010001005&ProgramID=609154345&ParentNodeID=-99&assertID=2200179303&client_ip=61.170.86.21&SecurityKey=20180827155040&promotionId=&mvid=&mcid=&mpid=&encrypt=bdf5441b3ce00181a5e176156bfcecac"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvxbyy": {
+      "name": "CCTV 西班牙语",
+      "playSource": [
+        {
+          "sourceWebsite": "网络34",
+          "playUrl": "http://live.aikan.miguplaySource.com/envivo_v/SD/cctv/xibanya/711/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.139.137&timestamp=20180827075537&encrypt=f54c1fdfd81ab82526239779d6ea38f2&ContentId=20000010&timezone=UTC"
+        },
+        {
+          "sourceWebsite": "网络35",
+          "playUrl": "http://h5live.gslb.cmplaySource.cn/envivo_v/SD/cctv/xibanya/450/index.m3u8?msisdn=:clentId&mdspid=&spid=699004&netType=0&sid=2200179337&pid=2028597139&timestamp=20180827155359&Channel_ID=1004_10010001005&ProgramID=609006450&ParentNodeID=-99&assertID=2200179337&client_ip=61.170.86.21&SecurityKey=20180827155359&promotionId=&mvid=&mcid=&mpid=&encrypt=ef6e2e22ae8e4f1b669282b8cfd19817"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvfy": {
+      "name": "CCTV 法语",
+      "playSource": [
+        {
+          "sourceWebsite": "网络35",
+          "playUrl": "http://h5live.gslb.cmplaySource.cn/envivo_v/SD/cctv/fayu/450/index.m3u8?msisdn=:clentId&mdspid=&spid=699004&netType=0&sid=2200179324&pid=2028597139&timestamp=20180827155654&Channel_ID=1004_10010001005&ProgramID=609006476&ParentNodeID=-99&assertID=2200179324&client_ip=61.170.86.21&SecurityKey=20180827155654&promotionId=&mvid=&mcid=&mpid=&encrypt=d183f45b495a6809231f2ef248283dad"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvey": {
+      "name": "CCTV 俄语",
+      "playSource": [
+        {
+          "sourceWebsite": "网络35",
+          "playUrl": "http://h5live.gslb.cmplaySource.cn/envivo_v/SD/cctv/eyu/450/index.m3u8?msisdn=:clentId&mdspid=&spid=699004&netType=0&sid=2200179332&pid=2028597139&timestamp=20180827155940&Channel_ID=1004_10010001005&ProgramID=609006446&ParentNodeID=-99&assertID=2200179332&client_ip=61.170.86.21&SecurityKey=20180827155940&promotionId=&mvid=&mcid=&mpid=&encrypt=0f0d6865c8280c42b1e024aab5bb0d85"
+        },
+        {
+          "sourceWebsite": "网络34",
+          "playUrl": "http://live.aikan.miguplaySource.com/envivo_v/SD/cctv/eyu/711/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.139.135&timestamp=20180827075956&encrypt=cff63eceffe7ecabfde97b89e329785f&ContentId=20000028&timezone=UTC"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "zgqx": {
+      "name": "中国气象",
+      "playSource": [
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000015&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL12",
+          "playUrl": "http:\/\/223.99.186.203:6610\/shandong_cabletv.live.zte.com\/223.99.253.7:8081\/00\/SNM\/CHANNEL00000609\/2540800.m3u8?IASHttpSessionId=SLB3457201704130223481180155&ztecid=CHANNEL00000609&bandwidth=2540800&ispcode=3&timeformat=local&channel=CHANNEL00000609&srcplayUrl=aHR0cDovLzIyMy45OS4yNTMuNzo4MDgxLzIvMDAvQ0hBTk5FTDAwMDAwNjA5LzI1NDA4MDAvMS5tM3U4&m3u8_level=2"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvwhjp": {
+      "name": "CCTV 央视文化精品",
+      "playSource": [
+        {
+          "sourceWebsite": "网络精品",
+          "playUrl": "http://120.198.235.67/112.50.233.156/PLTV/88888888/224/3221226654/1.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvshpd": {
+      "name": "书画频道",
+      "playSource": [
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://112.73.66.59:9999/hls-live/livepkgr/_definst_/shtv/shtv.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvfyzq": {
+      "name": "CCTV 风云足球",
+      "playSource": [
+        {
+          "sourceWebsite": "默认",
+          "playUrl": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000618/index.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "zgjt": {
+      "name": "中国交通",
+      "playSource": [
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://tv.cctbn.com/zgjt/beijing.m3u8?auth_key=1701185783-0-0-e36f09598d451ea4440bbd83411e7fd5"
+        },
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cgtn": {
+      "name": "CGTN",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000016&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL10",
+          "playUrl": "http:\/\/223.110.243.155:80\/PLTV\/3\/224\/3221225572\/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/cctv16.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvsjdl": {
+      "name": "CCTV 世界地理",
+      "playSource": [
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://112.50.243.7/PLTV/88888888/224/3221226630/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000065&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "rtmp:\/\/ivi.bupt.edu.cn:1935\/livetv\/sjdltv"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cctvlgs": {
+      "name": "CCTV 老故事",
+      "playSource": [
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000053&playtoken=ABCDEFGH&file=.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "anhui": {
+      "name": "安徽卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=4774346722046993363&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        },
+        {
+          "sourceWebsite": "FL2",
+          "playUrl": "http:\/\/116.77.73.77\/otv\/tw\/live\/channel17\/800.m3u8"
+        },
+        {
+          "sourceWebsite": "FL5",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=4774346722046993363&livemode=1&stbId=185203FF004735100000D071C4FB9E98&userToken=e3bc3e9e316c5465e2eced817f9165a821vv&usergroup=g21077100000"
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000114&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000165&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL8",
+          "playUrl": "http:\/\/223.82.250.72\/ysten-business\/live\/anhuistv\/1.m3u8"
+        },
+        {
+          "sourceWebsite": "FL10",
+          "playUrl": "http:\/\/223.110.243.155:80\/PLTV\/3\/224\/3221225634\/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL11",
+          "playUrl": "http:\/\/wasuott.itv.cmplaySource.cn\/0_0_3736775_0.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/ahtv.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/ahhd.m3u8"
+        },
+        {
+          "sourceWebsite": "网络35",
+          "playUrl": "http://h5live.gslb.cmplaySource.cn/wd-anhuiwssd-350/index.m3u8?msisdn=:clentId&mdspid=&spid=699010&netType=0&sid=5500333689&pid=2028597139&timestamp=20180827180240&Channel_ID=1004_10010001005&ProgramID=630971260&ParentNodeID=-99&assertID=5500333689&client_ip=61.170.86.21&SecurityKey=20180827180240&promotionId=&mvid=&mcid=&mpid=&encrypt=4591c45b88d35b88ff8a262c2d88e1cd"
+        },
+        {
+          "sourceWebsite": "网络9",
+          "playUrl": "http://58.248.254.11:9280/tvlive/ahws-h.stream/playlist.m3u8?wowzatokenCustomParameter=101962580363816243_61.170.86.21&wowzatokenendtime=1535371377&wowzatokenstarttime=1535364177&wowzatokenhash=QTDOW4PFR2Kkb_R9ceq0R-VmmBUMtX2uWcZxJeSBNMM="
+        },
+        {
+          "sourceWebsite": "网络34",
+          "playUrl": "http://live.aikan.miguplaySource.com/wd_r2/ocn/anhuiwshd/600/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.139.133&timestamp=20180827100316&encrypt=1d5e1a21ad02903ba530ce1f852ae152&ContentId=43225540&timezone=UTC"
+        },
+        {
+          "sourceWebsite": "网络40",
+          "playUrl": "http://114.80.186.135:80/live/5/60/29f6310a89ce492987abfcaa2457b4bc.m3u8?type=mpptv&k=8b52e924b4b620da3e941f8f6ee4804e-0054-1535407422%26segment%3D33122e42_1535364222%26bppcataid%3D79&playback=0&vvid=770a1569-5d70-2a7d-8c90-0427e26d10eb"
+        },
+        {
+          "sourceWebsite": "网络29",
+          "playUrl": "http://v.ahtv.cn/m2o/m3u8.php?playUrl=http://10454.liveplay.myqcloud.com/live/ahws.m3u8"
+        },
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://tianweilive.ali.otvcloud.com/otv/tw/live/channel17/800.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "btv1": {
+      "name": "北京卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL2",
+          "playUrl": "http:\/\/116.77.73.77\/otv\/tw\/live\/channel91\/800.m3u8"
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000025&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000169&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL8",
+          "playUrl": "http:\/\/223.82.250.72\/ysten-business\/live\/hdbeijingstv\/1.m3u8"
+        },
+        {
+          "sourceWebsite": "FL10",
+          "playUrl": "http:\/\/223.110.243.155:80\/PLTV\/3\/224\/3221225574\/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL10",
+          "playUrl": "http:\/\/223.110.243.155:80\/PLTV\/3\/224\/3221227246\/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL11",
+          "playUrl": "http:\/\/wasuott.itv.cmplaySource.cn\/0_0_3999623_0.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/btv1.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/btv1hd.m3u8"
+        },
+        {
+          "sourceWebsite": "网络49",
+          "playUrl": "http://live3.sz96296.com:9391/live/bjws-1200k.m3u8?timestamp=20180827174654&encrypt=4c0feafef93aac965678f7f95bd095cb"
+        },
+        {
+          "sourceWebsite": "网络9",
+          "playUrl": "http://58.248.254.9:9235/tvlive/bjws-h.stream/playlist.m3u8?wowzatokenCustomParameter=101962231757299719_61.170.86.21&wowzatokenendtime=1535371028&wowzatokenstarttime=1535363828&wowzatokenhash=J3VBVRoCS5UvuM6MN1w_Q9-GFSgX4DSwVYHKF5nuOCI="
+        },
+        {
+          "sourceWebsite": "网络102",
+          "playUrl": "http://112.50.243.7/PLTV/88888888/224/3221226484/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "dongfang": {
+      "name": "东方卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=6081477947334326291&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        },
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=4699937686040264690&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        },
+        {
+          "sourceWebsite": "FL2",
+          "playUrl": "http:\/\/116.77.73.77\/otv\/tw\/live\/channel93\/800.m3u8"
+        },
+        {
+          "sourceWebsite": "FL5",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=4699937686040264690&livemode=1&stbId=185203FF004735100000D071C4FB9E98&userToken=e3bc3e9e316c5465e2eced817f9165a821vv&usergroup=g21077100000"
+        },
+        {
+          "sourceWebsite": "FL5",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=6081477947334326291&livemode=1&stbId=185203FF004735100000D071C4FB9E98&userToken=e3bc3e9e316c5465e2eced817f9165a821vv&usergroup=g21077100000"
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000063&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL8",
+          "playUrl": "http:\/\/223.82.250.72\/ysten-business\/live\/hddongfangstv\/1.m3u8"
+        },
+        {
+          "sourceWebsite": "FL10",
+          "playUrl": "http:\/\/223.110.243.155:80\/PLTV\/3\/224\/3221225558\/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL11",
+          "playUrl": "http:\/\/wasuott.itv.cmplaySource.cn\/0_0_3999262_0.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/dftv.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/dfhd.m3u8"
+        },
+        {
+          "sourceWebsite": "网络35",
+          "playUrl": "http://h5live.gslb.cmplaySource.cn/wd_r4/dfl/dongfangwssd/350/index.m3u8?msisdn=:clentId&mdspid=&spid=699001&netType=0&sid=2201004968&pid=2007412000&timestamp=20180827171437&Channel_ID=1004_10010001005&ProgramID=608790604&ParentNodeID=-99&assertID=2201004968&client_ip=61.170.86.21&SecurityKey=20180827171437&promotionId=&mvid=&mcid=&mpid=&encrypt=dc5d27685f17a43000385dbef948fa87"
+        },
+        {
+          "sourceWebsite": "网络9",
+          "playUrl": "http://58.248.254.11:9280/tvlive/dfws-h.stream/playlist.m3u8?wowzatokenCustomParameter=101960219427123429_61.170.86.21&wowzatokenendtime=1535369016&wowzatokenstarttime=1535361816&wowzatokenhash=_SQeFOOEuXfDLk2P2WyAWjxEwjbT7zWKpfyNL0vjTYQ="
+        },
+        {
+          "sourceWebsite": "网络34",
+          "playUrl": "http://live.aikan.miguplaySource.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=211.140.19.2&timestamp=20180827092359&encrypt=3eef1456efe4e41114a2be3a77e7aab1&ContentId=20000163&timezone=UTC"
+        },
+        {
+          "sourceWebsite": "网络102",
+          "playUrl": "http://117.169.72.6:8080/ysten-businessmobile/live/dongfangstv/1.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "dongnan": {
+      "name": "东南卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=7721801662260370363&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "guangdong": {
+      "name": "广东卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=5616881981321254555&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        },
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=6604532991586541024&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        },
+        {
+          "sourceWebsite": "FL2",
+          "playUrl": "http:\/\/116.77.73.77\/otv\/tw\/live\/channel08\/800.m3u8"
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000172&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL8",
+          "playUrl": "http:\/\/223.82.250.72\/ysten-business\/live\/hdguangdongstv\/1.m3u8"
+        },
+        {
+          "sourceWebsite": "FL10",
+          "playUrl": "http:\/\/223.110.243.155:80\/PLTV\/3\/224\/3221225578\/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL10",
+          "playUrl": "http:\/\/223.110.243.155:80\/PLTV\/3\/224\/3221225592\/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL10",
+          "playUrl": "http:\/\/223.110.243.155:80\/PLTV\/3\/224\/3221227249\/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL11",
+          "playUrl": "http:\/\/wasuott.itv.cmplaySource.cn\/0_0_3736805_0.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/gdtv.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/gdhd.m3u8"
+        },
+        {
+          "sourceWebsite": "网络8",
+          "playUrl": "http://101.227.216.166:8080/zijian.hls.playSource.qq.com/B359244C665ABFE5AB016E4A8C80FCC79E1E2BF0A69FA0FC045864006B233963B1D7F8CBEAFAB22D81D1B18FD15267AB5796D3C6FAF919EC5D14FAEFD772A657C3095F3B1B57CA48C9BCD8C2B45FC9E3203754C5D1F5D715/100104501.m3u8?cdncode=%2f18907E7BE0798990%2f&time=1535364755&cdn=zijian&sdtfrom=v10132&platform=113&butype=1&scheduleflag=1&buname=qqlive&vkey=B359244C665ABFE5AB016E4A8C80FCC79E1E2BF0A69FA0FC045864006B233963B1D7F8CBEAFAB22D81D1B18FD15267AB5796D3C6FAF919EC5D14FAEFD772A657C3095F3B1B57CA48C9BCD8C2B45FC9E3203754C5D1F5D715"
+        },
+        {
+          "sourceWebsite": "网络35",
+          "playUrl": "http://h5live.gslb.cmplaySource.cn/envivo_x/SD/guangdong/450/index.m3u8?msisdn=:clentId&mdspid=&spid=699054&netType=0&sid=2200130988&pid=2028597139&timestamp=20180827181212&Channel_ID=1004_10010001005&ProgramID=608831538&ParentNodeID=-99&assertID=2200130988&client_ip=61.170.86.21&SecurityKey=20180827181212&promotionId=&mvid=&mcid=&mpid=&encrypt=0c9b3de65bb805b385cf86fed9e7d630"
+        },
+        {
+          "sourceWebsite": "网络8",
+          "playUrl": "http://222.73.132.174:8080/zijian.hls.playSource.qq.com/9046BCEFA0E08CC3E8E02AFDAF9E135B3CB580D27BB1E8CB1B5A128B149A58EAA08A1B0A546894A594A878130411825E2D0884D2BA4E5B11DFB9E9D11C842D9FF515E8E4847834F7E13A57B0E319ED7AECA93D4B019F1587/100104501.m3u8?cdncode=%2f18907E7BE0798990%2f&time=1535364851&cdn=zijian&sdtfrom=v10132&platform=113&butype=1&scheduleflag=1&buname=qqlive&vkey=9046BCEFA0E08CC3E8E02AFDAF9E135B3CB580D27BB1E8CB1B5A128B149A58EAA08A1B0A546894A594A878130411825E2D0884D2BA4E5B11DFB9E9D11C842D9FF515E8E4847834F7E13A57B0E319ED7AECA93D4B019F1587"
+        },
+        {
+          "sourceWebsite": "网络34",
+          "playUrl": "http://live.aikan.miguplaySource.com/ws_w/gdws/gdws2000/2000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=211.140.19.2&timestamp=20180827101524&encrypt=158009d93a63c3aff4b817e594b11bbe&ContentId=20000094&timezone=UTC"
+        },
+        {
+          "sourceWebsite": "网络27",
+          "playUrl": "http://gdlive.grtn.cn/gdws1/sd/live.m3u8?_upt=e6f944ff1535372211"
+        },
+        {
+          "sourceWebsite": "网络49",
+          "playUrl": "http://live3.sz96296.com:9391/live/gdws-1200k.m3u8?timestamp=20180827181715&encrypt=c9ff17cce241fc829494218cad842b9a"
+        },
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://tianweilive.ali.otvcloud.com/otv/tw/live/channel08/800.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "guangxi": {
+      "name": "广西卫视",
+      "playBack": [],
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http://gslbserv.itv.cmplaySource.cn:80/1.m3u8?channel-id\u003dystenlive\u0026Contentid\u003d8069815772565148726\u0026livemode\u003d1\u0026stbId\u003d005503FF0015893000008421F1C4A20A\u0026userToken\u003d\u0026usergroup\u003d"
+        },
+        {
+          "sourceWebsite": "FL2",
+          "playUrl": "http://116.77.73.77/otv/tw/live/channel55/800.m3u8"
+        },
+        {
+          "sourceWebsite": "FL3",
+          "playUrl": "http://ocs2.xjitv.cn:5000/guangxi_hdcq.m3u8?protocal\u003dhls\u0026user\u003dyoongoo\u0026tid\u003dPC-654106\u0026sid\u003dguangxi_hd\u0026quality\u003dnull\u0026type\u003dpc\u0026token\u003dguoziyun\u0026f\u003d"
+        },
+        {
+          "sourceWebsite": "FL4",
+          "playUrl": "http://61.176.217.50:6610/001/2/ch00000090990000001188/index.m3u8?virtualDomain\u003d001.live_hls.zte.com\u0026IASHttpSessionId\u003dOTT2863120180728040304001626"
+        },
+        {
+          "sourceWebsite": "FL5",
+          "playUrl": "http://gslbserv.itv.cmplaySource.cn:80/1.m3u8?channel-id\u003dystenlive\u0026Contentid\u003d8069815772565148726\u0026livemode\u003d1\u0026stbId\u003d185203FF004735100000D071C4FB9E98\u0026userToken\u003de3bc3e9e316c5465e2eced817f9165a821vv\u0026usergroup\u003dg21077100000"
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http://httpdvb.slave.pygdzhcs.com:13164/playplayUrl?playtype\u003dlive\u0026protocol\u003dhttp\u0026accesstoken\u003dR5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01\u0026programid\u003d4200000096\u0026playtoken\u003dABCDEFGH\u0026file\u003d.m3u8"
+        },
+        {
+          "sourceWebsite": "FL8",
+          "playUrl": "http://223.82.250.72/ysten-business/live/guangxistv/1.m3u8"
+        },
+        {
+          "sourceWebsite": "FL10",
+          "playUrl": "http://223.110.243.155:80/PLTV/3/224/3221225554/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL11",
+          "playUrl": "http://wasuott.itv.cmplaySource.cn/0_0_3736830_0.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/gxtv.m3u8"
+        },
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://ott.iptv-cn.com/gx/?id\u003dws"
+        },
+        {
+          "sourceWebsite": "网络2",
+          "playUrl": "http://stream.cdn.liangtv.cn/live/liangtv_gxws/playlist.m3u8?token\u003deH0xSTM1WDUwNDE5JmM9aFZ5a3NYRSZhPUxpYW5nVFZAMDEwMyZ2PTk5MjMw"
+        },
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://tianweilive.ali.otvcloud.com/otv/tw/live/channel55/800.m3u8"
+        }
+      ]
+    },
+    "gansu": {
+      "name": "甘肃卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=8938598377512027715&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "guizhou": {
+      "name": "贵州卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=5468064193211864646&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "hebei": {
+      "name": "河北卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=8360637122634561354&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "henan": {
+      "name": "河南卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=7304224304099543804&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "heilongjiang": {
+      "name": "黑龙江卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=8467838254824392379&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "hubei": {
+      "name": "湖北卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=6956052407855047826&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "hunan": {
+      "name": "湖南卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=6954818217931477266&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "zhejiang": {
+      "name": "浙江卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=7889730693553663314&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        },
+        {
+          "sourceWebsite": "FL2",
+          "playUrl": "http:\/\/116.77.73.77\/otv\/tw\/live\/channel90\/800.m3u8"
+        },
+        {
+          "sourceWebsite": "FL5",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=4945391150963996912&livemode=1&stbId=185203FF004735100000D071C4FB9E98&userToken=e3bc3e9e316c5465e2eced817f9165a821vv&usergroup=g21077100000"
+        },
+        {
+          "sourceWebsite": "FL8",
+          "playUrl": "http:\/\/223.82.250.72\/ysten-business\/live\/hdzhejiangstv\/1.m3u8"
+        },
+        {
+          "sourceWebsite": "FL10",
+          "playUrl": "http:\/\/223.110.243.155:80\/PLTV\/3\/224\/3221225544\/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL10",
+          "playUrl": "http:\/\/223.110.243.155:80\/PLTV\/3\/224\/3221227215\/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL11",
+          "playUrl": "http:\/\/wasuott.itv.cmplaySource.cn\/0_0_3999652_0.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/zjtv.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/zjhd.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/zjhd.m3u8"
+        },
+        {
+          "sourceWebsite": "网络49",
+          "playUrl": "http://live3.sz96296.com:9391/live/zjws-1200k.m3u8?timestamp=20180827170829&encrypt=5403d7412de7f435e17bbed5fadfe502"
+        },
+        {
+          "sourceWebsite": "网络9",
+          "playUrl": "http://58.248.254.9:9235/tvlive/zjws-h.stream/playlist.m3u8?wowzatokenCustomParameter=101959480024563969_61.170.86.21&wowzatokenendtime=1535368276&wowzatokenstarttime=1535361076&wowzatokenhash=-buKycnU3YYiOwY711sSsA-PHiUB4qhLjYzCpacngh8="
+        },
+        {
+          "sourceWebsite": "网络102",
+          "playUrl": "http://ivi.bupt.edu.cn/hls/zjhd.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "jiangsu": {
+      "name": "江苏卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=4796340999304424198&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        },
+        {
+          "sourceWebsite": "FL2",
+          "playUrl": "http:\/\/116.77.73.77\/otv\/tw\/live\/channel94\/800.m3u8"
+        },
+        {
+          "sourceWebsite": "FL5",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=4690153511271751319&livemode=1&stbId=185203FF004735100000D071C4FB9E98&userToken=e3bc3e9e316c5465e2eced817f9165a821vv&usergroup=g21077100000"
+        },
+        {
+          "sourceWebsite": "FL5",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=4796340999304424198&livemode=1&stbId=185203FF004735100000D071C4FB9E98&userToken=e3bc3e9e316c5465e2eced817f9165a821vv&usergroup=g21077100000"
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000039&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000168&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL8",
+          "playUrl": "http:\/\/223.82.250.72\/ysten-business\/live\/hdjiangsustv\/1.m3u8"
+        },
+        {
+          "sourceWebsite": "FL10",
+          "playUrl": "http:\/\/223.110.243.155:80\/PLTV\/3\/224\/3221227185\/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL10",
+          "playUrl": "http:\/\/223.110.243.155:80\/PLTV\/3\/224\/3221227255\/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL11",
+          "playUrl": "http:\/\/wasuott.itv.cmplaySource.cn\/0_0_3998189_0.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/jstv.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/jshd.m3u8"
+        },
+        {
+          "sourceWebsite": "网络102",
+          "playUrl": "http://183.207.248.11/PLTV/4/224/3221225782/index.m3u8"
+        },
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://pulllive-al.wasu.cn/live/hdjiangsustv.m3u8"
+        },
+        {
+          "sourceWebsite": "网络40",
+          "playUrl": "http://114.80.186.137:80/live/5/60/238baa4ac12f427896cecf12234159ef.m3u8?type=mpptv&k=acbec91bfbf551748d0dd3cf2bc805b4-b46c-1535405661%26segment%3D291f23ca_1535362461%26bppcataid%3D79&playback=0&vvid=770a1569-5d70-2a7d-8c90-0427e26d10eb"
+        },
+        {
+          "sourceWebsite": "网络35",
+          "playUrl": "http://h5live.gslb.cmplaySource.cn/envivo_x/SD/jiangsuTV/450/index.m3u8?msisdn=:clentId&mdspid=&spid=699067&netType=0&sid=5500199481&pid=2007412000&timestamp=20180827173440&Channel_ID=1004_10010001005&ProgramID=623899540&ParentNodeID=-99&assertID=5500199481&client_ip=61.170.86.21&SecurityKey=20180827173440&promotionId=&mvid=&mcid=&mpid=&encrypt=225bc299e4171a9114b006bcf33eb93f"
+        },
+        {
+          "sourceWebsite": "网络40",
+          "playUrl": "http://114.80.186.143:80/live/5/60/93febe2b4ea143789ae3b905ac8c320a.m3u8?type=mpptv&k=07205e6404383a160dba72e12d0552d0-f6ec-1535405704%26segment%3Ddb66856a_1535362504%26bppcataid%3D79&playback=0&vvid=770a1569-5d70-2a7d-8c90-0427e26d10eb"
+        },
+        {
+          "sourceWebsite": "网络49",
+          "playUrl": "http://live3.sz96296.com:9391/live/jsws-1200k.m3u8?timestamp=20180827173557&encrypt=e34f0cfb35400f55a2c31f1fee95f2e3"
+        },
+        {
+          "sourceWebsite": "网络直播",
+          "playUrl": "http://112.50.243.7/PLTV/88888888/224/3221226512/index.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "jilin": {
+      "name": "吉林卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=6042486520432105075&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "chongqing": {
+      "name": "重庆卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=4995134319251569870&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "jiangxi": {
+      "name": "江西卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=5616078396620462481&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "liaoning": {
+      "name": "辽宁卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=7638375013635582245&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "travel": {
+      "name": "旅游卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=7899627377857656087&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "neimenggu": {
+      "name": "内蒙古卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=5559214655508729688&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "ningxia": {
+      "name": "宁夏卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=7527747602951312973&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "qinghai": {
+      "name": "青海卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=6721180114242078041&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cetv1": {
+      "name": "综合教育频道",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=7106250793420582078&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cetv2": {
+      "name": "继续教育频道",
+      "playSource": [
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000132&playtoken=ABCDEFGH&file=.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cetv4": {
+      "name": "智慧教育频道",
+      "playSource": [
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000133&playtoken=ABCDEFGH&file=.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "cetv3": {
+      "name": "人文教育频道",
+      "playSource": [
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "rtmp:\/\/ivi.bupt.edu.cn:1935\/livetv\/cetv3"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "shandong": {
+      "name": "山东卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=7744799445271696577&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        },
+        {
+          "sourceWebsite": "FL2",
+          "playUrl": "http:\/\/116.77.73.77\/otv\/tw\/live\/channel26\/800.m3u8"
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000028&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL6",
+          "playUrl": "http:\/\/httpdvb.slave.pygdzhcs.com:13164\/playplayUrl?playtype=live&protocol=http&accesstoken=R5B5BCBB0U309F7166K7754074DIEB449A1BPBM2FB17CDV1020DZ20C40C6568WDF0B1C48B01&programid=4200000163&playtoken=ABCDEFGH&file=.m3u8"
+        },
+        {
+          "sourceWebsite": "FL8",
+          "playUrl": "http:\/\/223.82.250.72\/ysten-business\/live\/hdshandongstv\/1.m3u8"
+        },
+        {
+          "sourceWebsite": "FL10",
+          "playUrl": "http:\/\/223.110.243.155:80\/PLTV\/3\/224\/3221225586\/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL10",
+          "playUrl": "http:\/\/223.110.243.155:80\/PLTV\/3\/224\/3221227258\/index.m3u8"
+        },
+        {
+          "sourceWebsite": "FL11",
+          "playUrl": "http:\/\/wasuott.itv.cmplaySource.cn\/0_0_3997187_0.m3u8"
+        },
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/sdtv.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "sdetv": {
+      "name": "山东教育卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "shenzhen": {
+      "name": "深圳卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=5352218613763113657&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "shan3xi": {
+      "name": "陕西卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=7120278140251237664&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "shan1xi": {
+      "name": "山西卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=4821787565788875765&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "sichuan": {
+      "name": "四川卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=8744805262559782299&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "tianjin": {
+      "name": "天津卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=8798367982904688776&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "xizang": {
+      "name": "西藏卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "xiamen": {
+      "name": "厦门卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL9",
+          "playUrl": "http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "xinjiang": {
+      "name": "新疆卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=5802765535081445534&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "xianggangweishi": {
+      "name": "香港卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL13",
+          "playUrl": ""
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "yunnan": {
+      "name": "云南卫视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL1",
+          "playUrl": "http:\/\/gslbserv.itv.cmplaySource.cn:80\/1.m3u8?channel-id=ystenlive&Contentid=8567124785369040339&livemode=1&stbId=005503FF0015893000008421F1C4A20A&userToken=&usergroup="
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "btv2": {
+      "name": "BTV文艺",
+      "playSource": [
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/btv2.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "btv3": {
+      "name": "BTV科教",
+      "playSource": [
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/btv3.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "btv4": {
+      "name": "BTV影视",
+      "playSource": [
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/btv4.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "btv5": {
+      "name": "BTV财经",
+      "playSource": [
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/btv5.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "btv6": {
+      "name": "BTV体育",
+      "playSource": [
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/btv6.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "btv7": {
+      "name": "BTV生活",
+      "playSource": [
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/btv7.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "btv8": {
+      "name": "BTV青少",
+      "playSource": [
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/btv8.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "btv9": {
+      "name": "BTV新闻",
+      "playSource": [
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/btv9.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    },
+    "btv10": {
+      "name": "BTV少儿",
+      "playSource": [
+        {
+          "sourceWebsite": "FL14",
+          "playUrl": "http:\/\/ivi.bupt.edu.cn\/hls\/btv10.m3u8"
+        }
+      ],
+      "playBack": [
+        {
+          "sourceWebsite": "",
+          "playUrl": ""
+        }
+      ]
+    }
+  }
+}
