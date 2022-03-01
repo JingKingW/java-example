@@ -8,6 +8,7 @@ import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.client.utils.URIBuilder;
+import org.apache.http.entity.StringEntity;
 import org.apache.http.message.BasicNameValuePair;
 
 import java.io.IOException;
@@ -20,7 +21,6 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- *
  * @author Gimgoog
  * @date 2018/5/30
  */
@@ -79,6 +79,23 @@ public class HttpSendUtils {
         HttpResponse httpResponse = HttpClientTool.getHttpClient().execute(pm);
         return readStream(httpResponse.getEntity().getContent(), defaultEncoding);
     }
+
+    public static String doPostForStringWithHead(String url, String params, Map<String, String> headers)
+            throws URISyntaxException, IOException {
+        HttpPost pm = new HttpPost();
+        URIBuilder builder = new URIBuilder(url);
+        pm.setURI(builder.build());
+        StringEntity se = new StringEntity(params.toString(), "utf-8");
+        pm.setEntity(se);
+        if (headers != null && !headers.isEmpty()) {
+            for (Map.Entry<String, String> item : headers.entrySet()) {
+                pm.addHeader(item.getKey(), item.getValue());
+            }
+        }
+        HttpResponse httpResponse = HttpClientTool.getHttpClient().execute(pm);
+        return readStream(httpResponse.getEntity().getContent(), defaultEncoding);
+    }
+
 
     public static String readStream(InputStream in, String encoding) {
         String returnParams = "";
